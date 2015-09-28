@@ -1,0 +1,117 @@
+WARNING: (general problem as indicated): zip warning: Invalid argument
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/assets/
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/assets/js/
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/assets/js/scripts.js
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Error/
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Error/ValidationErrorCollection.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Error/Validation.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Error/ErrorCollection.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Error/Codes.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Exception/
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Exception/Authentication.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Exception/Authorization.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Exception/DownForMaintenance.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Exception/ValidationsFailed.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Exception/Configuration.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Exception/ForgedQueryString.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Exception/UpgradeRequired.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Exception/SSLCaFileNotFound.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Exception/InvalidSignature.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Exception/NotFound.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Exception/ServerError.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Exception/Unexpected.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Exception/SSLCertificate.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/MerchantAccount/
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/MerchantAccount/IndividualDetails.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/MerchantAccount/BusinessDetails.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/MerchantAccount/FundingDetails.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/MerchantAccount/AddressDetails.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Result/CreditCardVerification.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/DisbursementDetails.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Exception.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/CreditCardVerificationSearch.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/EqualityNode.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Modification.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Disbursement.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Collection.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/MerchantAccount.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Configuration.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/CreditCard.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/PartnerMerchant.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/PartialMatchNode.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/MultipleValueNode.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Descriptor.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/ResourceCollection.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Customer.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/IsNode.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/RangeNode.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/AddOn.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Address.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Digest.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/CustomerSearch.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/MultipleValueOrTextNode.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/CreditCardVerification.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Http.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Instance.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/KeyValueNode.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Plan.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/lib/Braintree/Discount.php
+WARNING: (general problem as indicated): zip warning: No such file or directory
+WARNING: (file unreadable or does not exist): zip warning: could not open for reading: wp-content/plugins-1/gravity-forms-braintree/gravity-forms-braintree.php
+WARNING: (general problem as indicated): zip warning: Not all files were readable
